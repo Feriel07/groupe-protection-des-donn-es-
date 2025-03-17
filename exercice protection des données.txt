@@ -8,9 +8,10 @@ Le pantalon est soldé à 30 %. Combien coûte-t-il après réduction ?
 La chemise a une réduction de 15 %. Quel est son prix après réduction ?
 85
 La paire de chaussures est soldée à 40 %. Quel est son prix après réduction ?
+60€
 Si une personne achète tous les articles après réduction, combien dépense-t-elle au total ?
 
-Quel super-pouvoir aimerais-tu avoir ?
-Téléportation; Téléportation; Voler
+Quel super-pouvoir aimerais-tu avoir ? 
+Téléportation; Téléportation; Voler; invisibilités
 Quel est ton animal préféré ?
-Paresseux; Lion; Lion
+Paresseux; Lion; Lion; tigre 
