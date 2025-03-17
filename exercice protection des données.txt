@@ -4,11 +4,12 @@ Une veste : 80 €, Un pantalon : 50 €, Une chemise : 30 €,Une paire de chau
 La veste bénéficie d'une réduction de 25 %. Quel est son nouveau prix ?
 60 €
 Le pantalon est soldé à 30 %. Combien coûte-t-il après réduction ?
+35€
 La chemise a une réduction de 15 %. Quel est son prix après réduction ?
 La paire de chaussures est soldée à 40 %. Quel est son prix après réduction ?
 Si une personne achète tous les articles après réduction, combien dépense-t-elle au total ?
 
 Quel super-pouvoir aimerais-tu avoir ?
-Téléportation
+Téléportation; Téléportation 
 Quel est ton animal préféré ?
-Paresseux
+Paresseux; Lion
