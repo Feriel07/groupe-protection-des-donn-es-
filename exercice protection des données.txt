@@ -1,0 +1,11 @@
+Un magasin propose des réductions sur plusieurs articles pendant les soldes. Voici les prix d'origine des articles :
+Une veste : 80 €, Un pantalon : 50 €, Une chemise : 30 €,Une paire de chaussures : 100 €
+
+La veste bénéficie d'une réduction de 25 %. Quel est son nouveau prix ?
+Le pantalon est soldé à 30 %. Combien coûte-t-il après réduction ?
+La chemise a une réduction de 15 %. Quel est son prix après réduction ?
+La paire de chaussures est soldée à 40 %. Quel est son prix après réduction ?
+Si une personne achète tous les articles après réduction, combien dépense-t-elle au total ?
+
+Quel super-pouvoir aimerais-tu avoir ?
+Quel est ton animal préféré ?
